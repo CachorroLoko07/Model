@@ -1,0 +1,8 @@
+C:\Users\ZEC\Downloads\Telegram Desktop\Samsung-Ocean-Projeto-Elevador-master\Samsung-Ocean-Projeto-Elevador-master\ProjetoElevador\bin\Debug\ProjetoElevador.exe.config
+C:\Users\ZEC\Downloads\Telegram Desktop\Samsung-Ocean-Projeto-Elevador-master\Samsung-Ocean-Projeto-Elevador-master\ProjetoElevador\bin\Debug\ProjetoElevador.exe
+C:\Users\ZEC\Downloads\Telegram Desktop\Samsung-Ocean-Projeto-Elevador-master\Samsung-Ocean-Projeto-Elevador-master\ProjetoElevador\bin\Debug\ProjetoElevador.pdb
+C:\Users\ZEC\Downloads\Telegram Desktop\Samsung-Ocean-Projeto-Elevador-master\Samsung-Ocean-Projeto-Elevador-master\ProjetoElevador\obj\Debug\ProjetoElevador.csproj.AssemblyReference.cache
+C:\Users\ZEC\Downloads\Telegram Desktop\Samsung-Ocean-Projeto-Elevador-master\Samsung-Ocean-Projeto-Elevador-master\ProjetoElevador\obj\Debug\ProjetoElevador.csproj.SuggestedBindingRedirects.cache
+C:\Users\ZEC\Downloads\Telegram Desktop\Samsung-Ocean-Projeto-Elevador-master\Samsung-Ocean-Projeto-Elevador-master\ProjetoElevador\obj\Debug\ProjetoElevador.csproj.CoreCompileInputs.cache
+C:\Users\ZEC\Downloads\Telegram Desktop\Samsung-Ocean-Projeto-Elevador-master\Samsung-Ocean-Projeto-Elevador-master\ProjetoElevador\obj\Debug\ProjetoElevador.exe
+C:\Users\ZEC\Downloads\Telegram Desktop\Samsung-Ocean-Projeto-Elevador-master\Samsung-Ocean-Projeto-Elevador-master\ProjetoElevador\obj\Debug\ProjetoElevador.pdb
